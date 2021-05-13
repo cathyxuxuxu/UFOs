@@ -24,5 +24,5 @@ Within the table, there are Date, City, State, Country, Shape, Duration, and Com
 
 - Two additional recommendations for further development:
   
-  1. Since the dataset is large, instead of scrolling down to see all the data and showing them in one page, the table can be updated to multiply pages, which can make the website more organized and has a clearer look.
+  1. Since the dataset is large, instead of scrolling down to see all the data and showing them in one page, the table can be updated to multiply pages, which can make the website more organized and has a cleaner look.
   2. The data in comments column can be compressed and only shows the first couple of words with a “more information” button. If user would like to read the comments in more details, they can click on the button to see the whole comment.
